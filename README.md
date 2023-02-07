@@ -20,6 +20,9 @@ This repository can be cloned for installation.
 
 ## Usage
 
+To use this app run node server.js in the command line. Then press Get Started to be taken to the notes page. Simply fill out the information for your note and press the (+) button found in the top right of your screen. To delete a note press the red trash can symbol next to the note you want to delete.
+
+## Screenshots
 
 
 ## License

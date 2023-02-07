@@ -4,6 +4,21 @@
       "title": "Test Note",
       "text": "This is the description for the test note.",
       "id": "Test id"
+    },
+    {
+      "title": "Example note HW",
+      "text": "Finish your hw",
+      "id": "b3082521-9697-47a4-8057-09a313d8e4e1"
+    },
+    {
+      "title": "Example note QUIZ",
+      "text": "Take your coding quiz",
+      "id": "908f1529-1013-466f-84fe-8639167dd651"
+    },
+    {
+      "title": "Get Groceries",
+      "text": "Get groceries",
+      "id": "a2ab752b-31d7-4479-9416-d279e6cbb9ea"
     }
   ]
 }
